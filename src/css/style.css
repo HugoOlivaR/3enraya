@@ -1,0 +1,20 @@
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;    
+}
+
+.boardLine {
+    width: 320px;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
