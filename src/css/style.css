@@ -1,20 +1,66 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(13, 10, 32);
+}
+
 .square {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     background-color: lightblue;
     border: none;
     color: white;
     text-align: center;
-    font-size: 20px;
-    margin: 4px 2px;
-    cursor: pointer;    
+    font-size: 70px;
+    font-weight: bold;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    cursor: pointer;
+    border-radius: 10px;    
 }
 
 .boardLine {
-    width: 320px;
-    height: 110px;
+    padding: 8px;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: gray;
+}
+
+.board{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+
+.status{
+    margin-top: 10px;
+    text-align: left;
+    padding: 20px;
+    font-size: 30px;
+    color: white;
+}
+
+.title{
+    position: absolute;
+    height: 300px;
+    left: 0%;
+    top: 5%;
+}
+
+.authorDiv{
+    position: absolute;
+    width: 200px;
+    left: 10%;
+    top: 60%;
+}
+.subtitle{
+    color: white;
+    margin: 0px;
+}
+.name{
+    margin: 0px;
+    color: #FF914D;
+    font-size: 50px;
 }
