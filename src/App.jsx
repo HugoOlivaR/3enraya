@@ -31,7 +31,11 @@ export default function Board() {
   const winner = calculateWinner(squares);
   let status;
   if (winner) {
-    status = "Ganador: " + winner;
+    if (winner === 'Empate') {
+      status = 'Empate';
+    } else {
+      status = "Ganador: " + winner;
+    }
   } else {
     status = "Siguiente jugador: " + (xIsNext ? "X" : "O");
   }
@@ -74,6 +78,9 @@ function calculateWinner(squares) {
     if (squares[a] && squares[a] === squares[b] && squares[a] === squares[c]) {
       return squares[a];
     }
+  }
+  if (squares.every(square => square !== null)) {
+    return 'Empate';
   }
   return null;
 }
