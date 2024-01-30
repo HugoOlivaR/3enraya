@@ -1,4 +1,4 @@
-# react-task-app
+# 3enraya
 
 Welcome to 3enraya repository! Is a very simple tic tac toe game.
 
