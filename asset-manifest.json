@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/3enraya/static/css/main.6e9cab6d.css",
+    "main.js": "/3enraya/static/js/main.aeaf350c.js",
+    "static/media/title.svg": "/3enraya/static/media/title.5a9ad8f541ae553e47ce43029d40bf92.svg",
+    "index.html": "/3enraya/index.html",
+    "main.6e9cab6d.css.map": "/3enraya/static/css/main.6e9cab6d.css.map",
+    "main.aeaf350c.js.map": "/3enraya/static/js/main.aeaf350c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e9cab6d.css",
+    "static/js/main.aeaf350c.js"
+  ]
+}
