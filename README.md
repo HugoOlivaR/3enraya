@@ -1,34 +1,24 @@
-# zentunes
+# react-task-app
 
-Welcome to the zentunes repository! This project is developed and maintained by HugoOlivaR.
+Welcome to 3enraya repository! Is a very simple tic tac toe game.
 
 ## Overview
 
-zentunes is a web-based application crafted with a blend of technologies including JavaScript, CSS, and HTML. This project aims to deliver a unique and engaging user experience.
-
-## Features
-
-- **JavaScript Integration**: Leveraging the dynamic capabilities of JavaScript to ensure a responsive and interactive user experience.
-- **Styling with CSS**: Utilizing CSS to create visually appealing interfaces.
-- **HTML Structure**: Building the foundation of the application with HTML.
+3enraya is a static web-based application crafted with React and NodeJS. This project has allowed me to take my first steps in react.
+### Project Link: https://hugoolivar.github.io/3enraya/
 
 ## Getting Started
 
-To get started with zentunes:
+To get started with reack-task-app:
 
-1. **Clone the Repository**: `git clone https://github.com/HugoOlivaR/zentunes.git`
-2. **Navigate to the Project Directory**: `cd zentunes`
-3. **Install Dependencies**: (Instructions based on the project's dependency management)
-4. **Run the Application**: (Instructions on how to start the project)
+1. **Clone the Repository**: `git clone https://github.com/HugoOlivaR/3enraya.git`
+2. **Navigate to the Project Directory**: `cd 3enraya`
+3. **Install Dependencies**: ```npm install```
+4. **Run the Application**: ```npm run dev```
 
 ## Contributing
 
 Contributions to zentunes are welcome! Please read our contributing guidelines for details on how to submit pull requests, report issues, or suggest enhancements.
 
-## License
-
-This project is licensed under [appropriate license] - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Thanks to all contributors who have helped to build and improve zentunes.
+## Preview
+<img src="https://cdn.discordapp.com/attachments/1032760837649223771/1201953737493446656/image.png?ex=65cbb1a6&is=65b93ca6&hm=bd85bf30dc559ae0538c6229160ab95b0a0931a9302b760dc7f99f62f3937e03&" width="100%" height="auto" alt="app">  
